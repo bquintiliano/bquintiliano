@@ -1,4 +1,4 @@
-### Olá! Meu nome é Bruno Quintiliano, trabalho com infraestrutura e estou aprendendo a programar 👨‍💻
+### Olá! Meu nome é Bruno Quintiliano, trabalho como Full Stack 👨‍💻
   ##
 
 
